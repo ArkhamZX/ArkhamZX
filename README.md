@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/josetrinidadalmeyda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arkham7X" height="70" width="40" /></a>
 </p>
 
-![Jose Trinidad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhamZX&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+![Jose Trinidad's Top Languages](https://github-stats-extended.vercel.app/api?username=ArkhamZX&show_icons=true&include_all_commits=true&theme=light_github)
 ![Jose Trinidad's Stats](https://github-readme-stats.vercel.app/api?username=ArkhamZX&theme=buefy&show_icons=true&hide_border=true&count_private=false)
 ![Jose Trinidad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkhamZX&theme=buefy&hide_border=true)
 
