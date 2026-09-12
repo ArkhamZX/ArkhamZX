@@ -1,11 +1,11 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Jose Trinidad</h1>
 <h3 align="center">A enthusiastic Frontend Developer from the Dominican Republic</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArkhamZX" alt="ArkhamZX" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ArkhamZX" alt="ArkhamZX" />
+  </a>
+</p>
 
 - 🔭 I’m looking for a job
 - 🌱 I’m currently learning **Python, Django, Astro, GraphQL, Docker, Kubernetes, AWS, GCP, Firebase, Supabase**
@@ -20,7 +20,7 @@
 
 ![Jose Trinidad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhamZX&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 ![Jose Trinidad's Stats](https://github-readme-stats.vercel.app/api?username=ArkhamZX&theme=buefy&show_icons=true&hide_border=true&count_private=false)
-![Jose Trinidad's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkhamZX&theme=buefy&hide_border=true)
+![Jose Trinidad's Streak](https://streak-stats.demolab.com/?user=ArkhamZX&theme=buefy&hide_border=true)
 
 <h2 align="center">Tecnologías/Herramientas</h2>
 
@@ -33,7 +33,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/>
   </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/>
   </a>
@@ -55,7 +54,6 @@
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="70" height="70">
   </a>
-  
 </p>
 
 <!-- Backend Section -->
@@ -111,5 +109,4 @@
   <a href="https://vercel.com/home" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="70" height="70">
   </a>
-  
 </p>
